@@ -1,0 +1,8 @@
+TOURISM TICKET
+===============
+
+Email ID: swapna
+Tour Code: SK
+Ticket Cost: Rs 19500.000000
+Number of tickets: 3
+Total Cost: Rs 58500.000000

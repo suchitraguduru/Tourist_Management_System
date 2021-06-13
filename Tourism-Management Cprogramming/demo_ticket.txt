@@ -1,0 +1,8 @@
+TOURISM TICKET
+===============
+
+Email ID: demo
+Tour Code: ND
+Ticket Cost: Rs 17000.000000
+Number of tickets: 3
+Total Cost: Rs 51000.000000
